@@ -26,8 +26,7 @@
   <img src="assets/ui-preview.svg" alt="Synapse Study Studio Tactile Paper Interface" width="100%" />
 </p>
 
-> **Tip for your GitHub repo:** Once you open `index.html` in your browser, you can also take live screenshots of your favorite chapters in Light Paper and Charcoal Dark mode and drop them into `assets/`!
-
+>
 ---
 
 ## ✨ Key Capabilities

@@ -1,0 +1,39 @@
+<svg viewBox="0 0 1120 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1120" height="220" rx="16" fill="#FCFBF7" stroke="#DCD4C2" stroke-width="1.5"/>
+  <text x="32" y="38" font-family="Inter,sans-serif" font-size="14" font-weight="700" fill="#1F1C17">Procedural ADHD Learning Architecture (Zero Wasted Credits)</text>
+  <g transform="translate(32, 68)" font-family="Inter,sans-serif">
+    <rect x="0" y="0" width="190" height="114" rx="12" fill="#F4EFE4" stroke="#DCD4C2"/>
+    <text x="16" y="30" font-size="12" font-weight="700" fill="#1F1C17">1. Onboarding &amp; Mode</text>
+    <text x="16" y="54" font-size="10.5" fill="#6B6456">Pick NEET, JEE, or Custom</text>
+    <text x="16" y="74" font-size="10.5" fill="#6B6456">Chapter / Middle / Topic / Chat</text>
+    <text x="16" y="94" font-size="10.5" fill="#16A34A" font-weight="600">BYOK · 100% Local</text>
+
+    <path d="M 196 57 L 222 57" stroke="#1F1C17" stroke-width="2"/>
+    <rect x="228" y="0" width="190" height="114" rx="12" fill="#F4EFE4" stroke="#DCD4C2"/>
+    <text x="244" y="30" font-size="12" font-weight="700" fill="#1F1C17">2. Syllabus Submenu</text>
+    <text x="244" y="54" font-size="10.5" fill="#6B6456">Lightweight outline only</text>
+    <text x="244" y="74" font-size="10.5" fill="#6B6456">Future items stay locked 🔒</text>
+    <text x="244" y="94" font-size="10.5" fill="#2563EB" font-weight="600">Saves 80%+ tokens</text>
+
+    <path d="M 424 57 L 450 57" stroke="#1F1C17" stroke-width="2"/>
+    <rect x="456" y="0" width="196" height="114" rx="12" fill="#1F1C17"/>
+    <text x="472" y="30" font-size="12" font-weight="700" fill="#FCFBF7">3. Teach 1 Subtopic</text>
+    <text x="472" y="54" font-size="10.5" fill="#DCD4C2">💬 Hook + 📝 ==Cloze== Notes</text>
+    <text x="472" y="74" font-size="10.5" fill="#DCD4C2">🎨 640×360 SVG + PubChem</text>
+    <text x="472" y="94" font-size="10.5" fill="#FBBF24" font-weight="600">🔊 Karaoke + Progressive Cloze</text>
+
+    <path d="M 658 57 L 684 57" stroke="#1F1C17" stroke-width="2"/>
+    <rect x="690" y="0" width="174" height="114" rx="12" fill="#F4EFE4" stroke="#DCD4C2"/>
+    <text x="706" y="30" font-size="12" font-weight="700" fill="#1F1C17">4. Mastery Gate</text>
+    <text x="706" y="54" font-size="10.5" fill="#6B6456">Tricky Exam MCQ</text>
+    <text x="706" y="74" font-size="10.5" fill="#6B6456">Mistake Diagnosis 🔍</text>
+    <text x="706" y="94" font-size="10.5" fill="#D97706" font-weight="600">Feynman &amp; Blurting</text>
+
+    <path d="M 870 57 L 896 57" stroke="#1F1C17" stroke-width="2"/>
+    <rect x="902" y="0" width="154" height="114" rx="12" fill="#F4EFE4" stroke="#DCD4C2"/>
+    <text x="918" y="30" font-size="12" font-weight="700" fill="#1F1C17">5. Export &amp; Sync</text>
+    <text x="918" y="54" font-size="10.5" fill="#6B6456">Obsidian .md file</text>
+    <text x="918" y="74" font-size="10.5" fill="#6B6456">Google Drive Sync</text>
+    <text x="918" y="94" font-size="10.5" fill="#16A34A" font-weight="600">Portable JSON</text>
+  </g>
+</svg>

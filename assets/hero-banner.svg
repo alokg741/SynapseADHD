@@ -1,0 +1,26 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="paperBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FCFBF7"/>
+      <stop offset="100%" stop-color="#EDE6D6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#paperBg)" stroke="#DCD4C2" stroke-width="2"/>
+  <g opacity="0.14" stroke="#6B6456" stroke-width="1">
+    <line x1="0" y1="64" x2="1200" y2="64"/>
+    <line x1="0" y1="128" x2="1200" y2="128"/>
+    <line x1="0" y1="192" x2="1200" y2="192"/>
+    <line x1="0" y1="256" x2="1200" y2="256"/>
+  </g>
+  <rect x="76" y="84" width="64" height="64" rx="16" fill="#1F1C17"/>
+  <text x="108" y="128" font-family="Inter,system-ui,sans-serif" font-size="36" font-weight="700" fill="#FCFBF7" text-anchor="middle">S</text>
+  <text x="164" y="114" font-family="Inter,system-ui,sans-serif" font-size="44" font-weight="700" fill="#1F1C17" letter-spacing="-1">Synapse Study Studio</text>
+  <text x="164" y="150" font-family="Inter,system-ui,sans-serif" font-size="19" fill="#6B6456">ADHD-First Open-Source AI Tutor · Tactile Paper UI · Global Exam Support</text>
+  <g transform="translate(164, 186)" font-family="Inter,system-ui,sans-serif" font-size="13" font-weight="600">
+    <rect x="0" y="0" width="136" height="34" rx="8" fill="#1F1C17"/><text x="68" y="22" fill="#FCFBF7" text-anchor="middle">NEET · JEE · Global</text>
+    <rect x="148" y="0" width="152" height="34" rx="8" fill="#FFFFFF" stroke="#DCD4C2"/><text x="224" y="22" fill="#1F1C17" text-anchor="middle">Obsidian ==Cloze==</text>
+    <rect x="312" y="0" width="166" height="34" rx="8" fill="#FFFFFF" stroke="#DCD4C2"/><text x="395" y="22" fill="#1F1C17" text-anchor="middle">640×360 Diagram Lab</text>
+    <rect x="490" y="0" width="170" height="34" rx="8" fill="#FFFFFF" stroke="#DCD4C2"/><text x="575" y="22" fill="#1F1C17" text-anchor="middle">Karaoke Voice + VAD</text>
+    <rect x="672" y="0" width="150" height="34" rx="8" fill="#FFFFFF" stroke="#DCD4C2"/><text x="747" y="22" fill="#1F1C17" text-anchor="middle">100% Local BYOK</text>
+  </g>
+</svg>
